@@ -1,1 +1,2 @@
-print("Hello")
+print("Line 1")
+print("Line 2")
